@@ -98,7 +98,7 @@ Me chamo Vitor, tenho 30 anos e migrei recentemente para a área da tecnologia. 
   />
 
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       width = "360"
       height="200" 
