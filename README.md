@@ -102,3 +102,5 @@ Me chamo Vitor, tenho 30 anos e migrei recentemente para a área da tecnologia. 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpicolotto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
+</p>
